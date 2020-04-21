@@ -26,7 +26,7 @@
     <details>
       <summary>Example</summary>
     
-    
+      ![alt text](img/19489372.png)
     
     </details>
     
