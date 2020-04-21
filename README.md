@@ -110,3 +110,15 @@
 15. Теперь установлен загрузчик breed и можно приступать непосредственно к прошивке.
 
 #### **--> Глава 3. Сборка OpenWRT**
+
+*пишется....*
+
+#### **--> Источники**
+
+1. [Xiaomi Mi Router 3G – обсуждение - 4PDA](https://4pda.ru/forum/index.php?showtopic=837667&st=8980#entry80934930)
+
+2. [Xiaomi Mi Router 3G – обсуждение - 4PDA](https://4pda.ru/forum/index.php?showtopic=837667&st=0#Spoil-63693893-14)
+
+3. https://www.microsoft.com/en-us/p/windows-terminal-preview/9n0dx20hk701?activetab=pivot:overviewtab
+
+4. [Настройка роутеров Xiaomi Mi Wi-Fi: пошаговая инструкция с фото - Выбирай.net](https://provayder.net/useful/articles/nastroyka-routera-xiaomi-mi-wi-fi/)
