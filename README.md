@@ -24,7 +24,7 @@
 10. Переходим по стрелочкам на картинке ниже и указываем путь к прошивке.
     
     <details>
-      <summary>Example</summary>
+      <summary>Картинка</summary>
     
       ![alt text](img/19489372.png)
     
